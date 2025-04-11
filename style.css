@@ -1,11 +1,11 @@
 @font-face {
-  font-family: 'Blanka';
-  src: url('fonts/Blanka.otf') format('opentype');
+  font-family: 'Blanka-Regular';
+  src: url('fonts/Blanka-Regular.otf') format('opentype');
 }
 
 body {
   margin: 0;
-  font-family: 'Blanka', sans-serif;
+  font-family: 'Blanka-Regulat', sans-serif;
   background-color: #111;
   color: #fff;
 }
